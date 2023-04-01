@@ -1,5 +1,8 @@
 ## Test API automation project for Notion
-![This is an image](notion_autotest_api/resources/images/logo_stacks/notion.png)
+<p align="center">
+  <img width="50%" title="Notion" src="notion_autotest_api/resources/images/logo_stacks/notion.png">
+</p>
+Notion is a freemium productivity and note-taking web application developed by Notion Labs Inc. It offers organizational tools including task management, project tracking, to-do lists, bookmarking, and more.
 
 <!-- Technology -->
 
